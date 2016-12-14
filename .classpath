@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Developpement/Libs/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/Developpement/Libs/pdfbox-1.8.12.jar"/>
+	<classpathentry kind="lib" path="F:/Developpement/Libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Developpement/Libs/fontbox-1.8.12.jar"/>
+	<classpathentry kind="lib" path="F:/Developpement/Libs/jempbox-1.8.12.jar"/>
+	<classpathentry kind="lib" path="F:/Developpement/Libs/poi-3.16-beta1.jar"/>
+	<classpathentry kind="lib" path="F:/Developpement/Libs/bcprov-jdk15on-155.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
